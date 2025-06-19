@@ -23,6 +23,22 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 
 ---
 
+## 🚀 Featured Projects
+
+**[Skin Disease Detection with CNNs](https://github.com/ChittyAbhiram/CNN-Applications-in-Skin-Disease-Prediction-and-Detection)**  
+Developed deep learning models for skin lesion classification using ResNet-50, VGG16, and Inception-ResNet-V2 on the HAM10000 dataset, improving F1-score by **20%** through data augmentation and transfer learning.
+
+📑 **[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
+Created an automated document analysis framework leveraging Hugging Face Transformers for document classification, clustering, and similarity-based retrieval on unstructured text.
+
+📊 **[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
+Analyzed historical stock data to optimize portfolio Sharpe Ratios and identify top-performing sectors for investment diversification.
+
+🃏 **[Poker Probability Simulation](https://github.com/ChittyAbhiram/Analyzing-the-Impact-of-Two-Decks-on-Poker-Probability)**  
+Simulated poker hand probabilities using single and double decks, applying the Law of Large Numbers to validate theoretical outcomes via large-scale simulations.
+
+---
+
 
 
 
