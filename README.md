@@ -26,9 +26,10 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 ## 🚀 Featured Projects
 
 **[Skin Disease Detection with CNNs](https://github.com/ChittyAbhiram/CNN-Applications-in-Skin-Disease-Prediction-and-Detection-)**  
-Developed deep learning models for skin lesion classification using ResNet-50, VGG16, and Inception-ResNet-V2 on the HAM10000 dataset, improving F1-score by **20%** through data augmentation and transfer learning.
+Designed and implemented deep learning models using ResNet-50, VGG16, and Inception-ResNet-V2 architectures to classify skin lesions from the HAM10000 dataset. Tackled severe class imbalance using advanced data augmentation and transfer learning, boosting model Accuracy. {Python, TensorFlow, Keras, CNN, Transfer Learning, Data Augmentation, Medical Imaging, Neural Networks}
 
-📑 **[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
+
+**[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
 Created an automated document analysis framework leveraging Hugging Face Transformers for document classification, clustering, and similarity-based retrieval on unstructured text.
 
 📊 **[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
