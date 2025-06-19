@@ -34,14 +34,12 @@ Built a scalable document analysis pipeline using Hugging Face Transformers for 
 
 **[Federated Learning for Enhanced Classification of Covid Pneumonia and Normal Lung X-Ray Images](https://github.com/ChittyAbhiram/Federated-Learning-for-Enhanced-Classification-of-Covid-Pneumonia-and-Normal-Lung-X-Ray-Images)**
 Developed a federated learning framework with ResNet-50 to classify chest X-rays into COVID-19, pneumonia, and normal categories while ensuring patient data privacy. Simulated distributed training environments, demonstrating privacy-preserving AI for healthcare. {Python, TensorFlow, Federated Learning, CNN, Medical Imaging, Deep Learning}
-
  
-📊 **[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
-Analyzed historical stock data to optimize portfolio Sharpe Ratios and identify top-performing sectors for investment diversification.
+**[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
+Analyzed historical S\&P 500 stock data to identify optimal portfolio diversification strategies by maximizing Sharpe Ratios. Visualized risk-return profiles, sector performances, and long-term investment growth, highlighting technology, banking, and healthcare as top-performing sectors. { Python, Financial Analytics, Pandas, NumPy, Matplotlib, Sharpe Ratio, Portfolio Optimization, Data Visualization, Financial Statistics}
 
-🃏 **[Poker Probability Simulation](https://github.com/ChittyAbhiram/Analyzing-the-Impact-of-Two-Decks-on-Poker-Probability)**  
-Simulated poker hand probabilities using single and double decks, applying the Law of Large Numbers to validate theoretical outcomes via large-scale simulations.
-
+**[Analyzing the Impact of Two Decks on Poker Probability](https://github.com/ChittyAbhiram/Analyzing-the-Impact-of-Two-Decks-on-Poker-Probability)**  
+Simulated 5-card poker hand probabilities using single and double-deck setups, exploring changes in hand occurrence rates. Applied the Law of Large Numbers to demonstrate convergence of simulated probabilities with theoretical expectations. {Python, Simulation, Probability, Law of Large Numbers (LLN), Data Analysis, Statistical Modeling}
 ---
 
 
