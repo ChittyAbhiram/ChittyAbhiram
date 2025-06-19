@@ -29,6 +29,10 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 Designed and implemented deep learning models using ResNet-50, VGG16, and Inception-ResNet-V2 architectures to classify skin lesions from the HAM10000 dataset. Tackled severe class imbalance using advanced data augmentation and transfer learning, boosting model Accuracy. {Python, TensorFlow, Keras, CNN, Transfer Learning, Data Augmentation, Medical Imaging, Neural Networks}
 
 
+**[Vision Transformer (ViT) Robustness Evaluation](https://github.com/ChittyAbhiram/CNN-Applications-in-Skin-Disease-Prediction-and-Detection-)**  
+Implemented and analyzed the robustness of Vision Transformer (ViT) models under varying perturbations and noise conditions. Evaluated model resilience against adversarial scenarios, and benchmarked performance on image classification tasks with different data augmentation strategies.
+
+
 **[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
 Built a scalable document analysis pipeline using Hugging Face Transformers for document classification, clustering, and semantic similarity retrieval. Automated unstructured text processing for enterprise knowledge management, enabling efficient GenAI-powered document workflows. {Python, Hugging Face Transformers, Generative AI (GenAI), LLMs, NLP, Document Clustering, Text Similarity, Data Engineering}
 
