@@ -35,6 +35,26 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 
 
 
+## 🌱 Fun Fact
+
+Outside of data science, I’m a huge cricket fan, enjoy road trips, and love experimenting with AI art generation and chatbot prototypes. Always open to new side projects and collaborations — feel free to reach out!
+
+---
+
+<p align="center">✨ Thanks for stopping by! ✨</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
