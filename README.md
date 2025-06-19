@@ -34,6 +34,13 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 
 
 
+## 📫 Connect With Me!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chitty-venkata-abhiram/)
+- 📧 abhiramchitty@outlook.com
+- 📂 [Resume](#) *(upload to your GitHub and link here, or use a cloud link)*
+
+---
 
 ## 🌱 Fun Fact
 
