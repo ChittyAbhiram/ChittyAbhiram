@@ -40,6 +40,7 @@ Analyzed historical S\&P 500 stock data to identify optimal portfolio diversific
 
 **[Analyzing the Impact of Two Decks on Poker Probability](https://github.com/ChittyAbhiram/Analyzing-the-Impact-of-Two-Decks-on-Poker-Probability)**  
 Simulated 5-card poker hand probabilities using single and double-deck setups, exploring changes in hand occurrence rates. Applied the Law of Large Numbers to demonstrate convergence of simulated probabilities with theoretical expectations. {Python, Simulation, Probability, Law of Large Numbers (LLN), Data Analysis, Statistical Modeling}
+
 ---
 
 
