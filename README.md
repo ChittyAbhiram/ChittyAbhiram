@@ -1,3 +1,12 @@
+<h1 align="center">👋 Hi, I'm Venkata Abhiram Chitty!</h1>
+
+<p align="center">
+    📊 Data Scientist | 💻 Machine Learning & NLP Enthusiast | 🤖 Generative AI Explorer
+</p>
+
+---
+
+
 ## Hi, I'm Venkata Abhiram Chitty 👋
 
 I'm a Data Science graduate with hands-on experience developing and deploying AI, Machine Learning, and Generative AI solutions for real-world business problems. With a solid academic background in Data Science and Analytics and professional experience in medical imaging, document automation, financial analytics, and AI-optimized workflow optimization, I'm skilled at taking complex, unstructured data and converting it into actionable insights and production-grade models.
