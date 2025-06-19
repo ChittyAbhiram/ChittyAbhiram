@@ -32,6 +32,9 @@ Designed and implemented deep learning models using ResNet-50, VGG16, and Incept
 **[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
 Built a scalable document analysis pipeline using Hugging Face Transformers for document classification, clustering, and semantic similarity retrieval. Automated unstructured text processing for enterprise knowledge management, enabling efficient GenAI-powered document workflows. {Python, Hugging Face Transformers, Generative AI (GenAI), LLMs, NLP, Document Clustering, Text Similarity, Data Engineering}
 
+**[Federated Learning for Enhanced Classification of Covid Pneumonia and Normal Lung X-Ray Images](https://github.com/ChittyAbhiram/Federated-Learning-for-Enhanced-Classification-of-Covid-Pneumonia-and-Normal-Lung-X-Ray-Images)**
+Developed a federated learning framework with ResNet-50 to classify chest X-rays into COVID-19, pneumonia, and normal categories while ensuring patient data privacy. Simulated distributed training environments, demonstrating privacy-preserving AI for healthcare. {Python, TensorFlow, Federated Learning, CNN, Medical Imaging, Deep Learning}
+
  
 📊 **[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
 Analyzed historical stock data to optimize portfolio Sharpe Ratios and identify top-performing sectors for investment diversification.
