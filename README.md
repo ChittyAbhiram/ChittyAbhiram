@@ -30,8 +30,9 @@ Designed and implemented deep learning models using ResNet-50, VGG16, and Incept
 
 
 **[LLM-Powered Document Analysis & Generation](https://github.com/ChittyAbhiram/LLM-Powered-Document-Analysis-and-Generation)**  
-Created an automated document analysis framework leveraging Hugging Face Transformers for document classification, clustering, and similarity-based retrieval on unstructured text.
+Built a scalable document analysis pipeline using Hugging Face Transformers for document classification, clustering, and semantic similarity retrieval. Automated unstructured text processing for enterprise knowledge management, enabling efficient GenAI-powered document workflows. {Python, Hugging Face Transformers, Generative AI (GenAI), LLMs, NLP, Document Clustering, Text Similarity, Data Engineering}
 
+ 
 📊 **[Portfolio Diversification with S&P 500 Stocks](https://github.com/ChittyAbhiram/Portfolio-Diversification-Analysis-using-S-and-P-500-Stocks)**  
 Analyzed historical stock data to optimize portfolio Sharpe Ratios and identify top-performing sectors for investment diversification.
 
