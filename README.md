@@ -54,7 +54,7 @@ Simulated 5-card poker hand probabilities using single and double-deck setups, e
 - 💼 [LinkedIn](https://www.linkedin.com/in/chitty-venkata-abhiram/)
 - 📂 [Resume](https://drive.google.com/file/d/1yW_FNtYN-DXkTY0KknpxC0IHrmV39d3O/view?usp=drive_link) 
 
-
+---
 
 ## 🌱 Fun Fact
 
