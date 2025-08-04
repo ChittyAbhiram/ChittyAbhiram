@@ -52,7 +52,7 @@ Simulated 5-card poker hand probabilities using single and double-deck setups, e
 - 📞 +1-404-203-5029
 - 📧 abhiramchitty@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/chitty-venkata-abhiram/)
-- 📂 [Resume](https://drive.google.com/file/d/1yW_FNtYN-DXkTY0KknpxC0IHrmV39d3O/view?usp=drive_link) 
+- 📂 [Resume](https://drive.google.com/file/d/1JRGrHj6mHIICJW1anUAv5u5QvMxqLYcg/view?usp=drive_link) 
 
 ---
 
