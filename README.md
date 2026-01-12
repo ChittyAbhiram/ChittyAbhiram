@@ -16,9 +16,9 @@ My work ranges from building deep learning models for diagnostic healthcare, dev
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, R Programming, SQL, SAS, C/C++, PowerBI, Excel, LaTeX, Git, Benchling
+- **Languages:** Python, R Programming, SQL, SAS, C/C++, PowerBI, Excel, LaTeX, Git
 - **ML & AI Frameworks:** TensorFlow, Scikit-learn, PyTorch, HuggingFace Transformers
-- **Data Tools:** Pandas, NumPy, OpenCV, Seaborn, Matplotlib, Geopy, PostgreSQL
+- **Data Tools:** Pandas, NumPy, OpenCV, Seaborn, Matplotlib, Geopy, PostgreSQL, Benchling
 - **Specialties:** Data Wrangling, Model Deployment, EDA, Statistical Modeling, Federated Learning, LLMs, and GenAI applications
 
 ---
