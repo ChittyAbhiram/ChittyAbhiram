@@ -2,7 +2,8 @@
 
 <p align="center">
     📊 Data Scientist | 💻 Machine Learning & Deep Learning Enthusiast | 🤖 Generative AI Explorer
-    Currently working as a **Business Analyst – Benchling at Sanofi**
+</p> 
+    Currently working as a Business Analyst – Benchling at Sanofi
 </p>
 
 ---
