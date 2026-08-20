@@ -10,9 +10,13 @@
 
 ## 📌 About Me
 
-I'm a Data Science graduate with hands-on experience developing and deploying AI, Machine Learning, and Generative AI solutions for real-world business problems. With a solid academic background in Data Science and Analytics and professional experience in medical imaging, document automation, financial analytics, and AI-optimized workflow optimization, I'm skilled at taking complex, unstructured data and converting it into actionable insights and production-grade models.
+I’m a Data Science graduate currently working as a **Business Analyst at Sanofi**, where I work at the intersection of scientific research, data, technology, and business processes. I have hands-on experience translating complex R&D workflows and data requirements into scalable solutions, data models, analytics, and digital applications that improve data quality, standardization, and downstream decision-making.
 
-My work ranges from building deep learning models for diagnostic healthcare, developing LLM-powered document classification systems, and conducting high-scale simulations in financial modelling and probability studies. I am particularly fascinated with Generative AI and LLMOps, and I have actively contributed to integrating LLMs into scalable document retrieval, summarization, and classification processes. I thrive in fast-paced, collaborative startup environments where speedy prototyping, creative problem-solving, and cross-functional teamwork are essential. Beyond core AI/ML development, I focus on developing clean, maintainable codebases with sufficient documentation and frictionless deployment capabilities. Hence, models aren't just viable in theory but deliver value to production.
+With a strong academic background in Data Science and Analytics and experience spanning biotechnology, AI/ML, medical imaging, document automation, financial analytics, and workflow optimization, I’m skilled at transforming complex and unstructured data into actionable insights and scalable technical solutions. My experience includes developing machine learning and deep learning models, building LLM-powered document classification and retrieval systems, and applying statistical and computational methods to large-scale analytical problems.
+
+I’m particularly fascinated by **Generative AI, LLMs, and LLMOps**, and I’m interested in applying these technologies to build intelligent, scalable applications that solve real-world business and scientific problems. I enjoy working closely with cross-functional teams to understand problems, translate requirements into technical solutions, prototype quickly, and deliver reliable outcomes.
+
+Beyond AI/ML development, I focus on writing clean, maintainable code and building solutions with strong documentation, scalability, and deployment considerations—ensuring that technical solutions are not only viable in theory but also capable of delivering measurable value in real-world production environments.
 
 ---
 
