@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Venkata Abhiram Chitty</h1>
 
 <p align="center">
-    📊 Data Scientist | 💻 Machine Learning & Deep Learning Enthusiast | 🤖 Generative AI Explorer
+    📈 Business Analyst | 📊 Data Scientist | 💻 Machine Learning & Deep Learning Enthusiast | 🤖 Generative AI Explorer
 <p align="center"> 
     Currently working as a Business Analyst – Benchling at Sanofi
 </p>
